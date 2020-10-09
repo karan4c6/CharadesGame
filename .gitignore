@@ -37,6 +37,7 @@ proguard/
 captures/
 
 # IntelliJ
+Charades/.idea
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
